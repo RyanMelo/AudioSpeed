@@ -1,16 +1,17 @@
 <p align="center">
-    <strong>Extensão para acelerar audios🗣 no whatsapp web</strong>
+    <h1>Extensão para acelerar audios🗣 no whatsapp web</h1>
 </p>
 
 </hr>
 
 <p align="center">
-    <img src="https://imgur.com/0naxEQF" alt="imgExtesao" width="500" height="600">
+<img src="https://i.ibb.co/T48hPB2/Screenshot-1.jpg" alt="Screenshot-1" border="0">
 </p>
+
 
 </hr>
 
-<h2>Para adicionala<h2>
+<h3>Para adicionala<h3>
 <ol>
     <li>Va até a aba de extesões do navegador</li>
     <li>Ative a opção de desemvolvedor no canto superior direito</li>
