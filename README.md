@@ -5,7 +5,7 @@
 </hr>
 
 <p align="center">
-    <img src="https://imgur.com/0naxEQF" alt="imgExtesao"></img>
+    <img src="https://imgur.com/0naxEQF" alt="imgExtesao" width="500" height="600">
 </p>
 
 </hr>
