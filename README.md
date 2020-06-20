@@ -5,7 +5,7 @@
 </hr>
 
 <p align="center">
-    ![Image](https://imgur.com/0naxEQF)
+    <img src="https://imgur.com/0naxEQF" alt="imgExtesao"></img>
 </p>
 
 </hr>
