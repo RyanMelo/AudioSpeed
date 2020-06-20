@@ -11,7 +11,7 @@
 
 </hr>
 
-<h3>Para adicionala<h3>
+<h3>Para adicionala:<h3>
 <ol>
     <li>Va até a aba de extesões do navegador</li>
     <li>Ative a opção de desemvolvedor no canto superior direito</li>
