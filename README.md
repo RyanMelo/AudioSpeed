@@ -4,7 +4,7 @@
 
 </hr>
 
-<p align="center">
+<p>
 <img src="https://i.ibb.co/T48hPB2/Screenshot-1.jpg" alt="Screenshot-1" border="0">
 </p>
 
