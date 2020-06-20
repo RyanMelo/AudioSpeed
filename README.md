@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://imgur.com/rLtoA0N" alt="Extesão IMG"/>
+    <img src="https://imgur.com/0naxEQF" alt="Extesão IMG"/>
 </p>
 
 <h2>Para adicionala<h2>
