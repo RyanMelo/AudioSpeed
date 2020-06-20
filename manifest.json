@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "AudioSpeed",
+  "version": "1.0.0",
+  "description": "Uma extensão para quem é de uma dark",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://web.whatsapp.com/"
+      ],
+      "css": [
+        "style.css"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
+}
